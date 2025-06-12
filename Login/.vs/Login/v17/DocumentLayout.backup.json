@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|c:\\users\\admin\\downloads\\dangky\\login\\login\\in\\ingiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\in\\ingiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\in\\inkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\in\\inkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\quanlysinhviendataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\quanlysinhviendataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\in\\inlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\in\\inlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\in\\indiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\in\\indiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_capnhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\timkiem\\tk_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\timkiem\\tk_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\thongtin\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\thongtin\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|C:\\Users\\Admin\\Downloads\\DangKy\\Login\\login\\capnhat\\cn_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322E1625-6600-4630-A039-86AA9ADCDF4B}|Login\\Login.csproj|solutionrelative:login\\capnhat\\cn_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySinhVienDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\QuanLySinhVienDataSet.xsd",
+              "RelativeDocumentMoniker": "Login\\QuanLySinhVienDataSet.xsd",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\QuanLySinhVienDataSet.xsd",
+              "RelativeToolTip": "Login\\QuanLySinhVienDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-22T06:48:28.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inkhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\In\\Inkhoa.cs",
+              "RelativeDocumentMoniker": "Login\\In\\Inkhoa.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\In\\Inkhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:07:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingiaovien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\In\\Ingiaovien.cs",
+              "RelativeDocumentMoniker": "Login\\In\\Ingiaovien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\In\\Ingiaovien.cs [Design]",
+              "RelativeToolTip": "Login\\In\\Ingiaovien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:07:08.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\In\\InDiem.cs",
+              "RelativeDocumentMoniker": "Login\\In\\InDiem.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\In\\InDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:07:05.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\packages.config",
+              "RelativeDocumentMoniker": "Login\\packages.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\packages.config",
+              "RelativeToolTip": "Login\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T04:25:30.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:10:38.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\App.config",
+              "RelativeDocumentMoniker": "Login\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\App.config",
+              "RelativeToolTip": "Login\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T03:31:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InLop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\In\\InLop.cs",
+              "RelativeDocumentMoniker": "Login\\In\\InLop.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\In\\InLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:07:10.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:10:35.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cn_chinhsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_chinhsach.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:40:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "chinhsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\chinhsach.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:40:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "chinhsach.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\chinhsach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\chinhsach.cs",
+              "RelativeToolTip": "Login\\thongtin\\chinhsach.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:40:54.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmSignup.cs",
+              "RelativeDocumentMoniker": "Login\\frmSignup.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\frmSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:27:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSignup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmSignup.cs",
+              "RelativeDocumentMoniker": "Login\\frmSignup.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\frmSignup.cs",
+              "RelativeToolTip": "Login\\frmSignup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:27:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cn_capnhat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_capnhat.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_capnhat.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_capnhat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:08:49.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Login\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:16:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tk_giaovien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\timkiem\\tk_giaovien.cs",
+              "RelativeDocumentMoniker": "Login\\timkiem\\tk_giaovien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\timkiem\\tk_giaovien.cs",
+              "RelativeToolTip": "Login\\timkiem\\tk_giaovien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:45:33.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "tk_chinhsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\timkiem\\tk_chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\timkiem\\tk_chinhsach.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\timkiem\\tk_chinhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:45:24.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "tk_chinhsach.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\timkiem\\tk_chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\timkiem\\tk_chinhsach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\timkiem\\tk_chinhsach.cs",
+              "RelativeToolTip": "Login\\timkiem\\tk_chinhsach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:45:18.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "giaovien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\giaovien.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\giaovien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\giaovien.cs",
+              "RelativeToolTip": "Login\\thongtin\\giaovien.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:21:39.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "giaovien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\giaovien.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\giaovien.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\giaovien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:21:34.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "cn_sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_sinhvien.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_sinhvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_sinhvien.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_sinhvien.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAADwv4YAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:17:08.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\Sinhvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\Sinhvien.cs",
+              "RelativeToolTip": "Login\\thongtin\\Sinhvien.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:14:21.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Sinhvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\Sinhvien.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\Sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:14:14.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "monhoc.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\monhoc.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\monhoc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\monhoc.cs",
+              "RelativeToolTip": "Login\\thongtin\\monhoc.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:09:07.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "cn_monhoc.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_monhoc.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_monhoc.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_monhoc.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_monhoc.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:08:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "monhoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\monhoc.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\monhoc.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\monhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:06:12.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "cn_sinhvien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_sinhvien.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_sinhvien.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_sinhvien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:05:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "diem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\diem.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\diem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\diem.cs",
+              "RelativeToolTip": "Login\\thongtin\\diem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:00:53.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "cn_diem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_diem.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_diem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_diem.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_diem.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwDoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:58:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "diem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\diem.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\diem.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\diem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:56:55.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "cn_chinhsach.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_chinhsach.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_chinhsach.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_chinhsach.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_chinhsach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:48:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "cn_monhoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_monhoc.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_monhoc.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_monhoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:41:03.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cn_giaovien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_giaovien.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_giaovien.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_giaovien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:41:01.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cn_diem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_diem.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_diem.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_diem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:41:00.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Menu.cs",
+              "RelativeDocumentMoniker": "Login\\Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Menu.cs",
+              "RelativeToolTip": "Login\\Menu.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAhwK4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:40:46.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "cn_khoa.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_khoa.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_khoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_khoa.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_khoa.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswKAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:31.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "cn_lop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_lop.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_lop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_lop.cs",
+              "RelativeToolTip": "Login\\capnhat\\cn_lop.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwFUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:14.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "cn_khoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_khoa.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_khoa.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "lop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\lop.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\lop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\lop.cs",
+              "RelativeToolTip": "Login\\thongtin\\lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "lop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\thongtin\\lop.cs",
+              "RelativeDocumentMoniker": "Login\\thongtin\\lop.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\thongtin\\lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:10.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cn_lop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\capnhat\\cn_lop.cs",
+              "RelativeDocumentMoniker": "Login\\capnhat\\cn_lop.cs",
+              "ToolTip": "D:\\DangKy\\Login\\Login\\capnhat\\cn_lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:09:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Menu.cs",
+              "RelativeDocumentMoniker": "Login\\Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\DangKy\\Login\\Login\\Menu.cs [Design]",
+              "RelativeToolTip": "Login\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:18:15.505Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
